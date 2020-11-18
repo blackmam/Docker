@@ -1,0 +1,5 @@
+# toutes les 5 min
+#toutes les 10 min
+
+*/5 * * * * /home/blackmamby//Noip/lunchnoip.sh
+*/10 * * * * /home/blackmamby/Noip/noipbot.sh
